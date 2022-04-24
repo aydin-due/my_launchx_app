@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aydin-due/my_launchx_app/issues"
   },
-  "homepage": "https://github.com/aydin-due/my_launchx_app#readme"
+  "homepage": "https://github.com/aydin-due/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
